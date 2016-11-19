@@ -5,6 +5,10 @@ public class myClass(){
     System.out.println(msg);
   }
   
+  public String devuelveMensaje(){
+    return "Hello World!";
+  }
+  
   public suma(int a, int b){
     return a+b;
   }
