@@ -1,4 +1,4 @@
-public class myClass(){
+public class myClass{
   public myClass(){};
   
   public void muestraMensaje(String msg){
