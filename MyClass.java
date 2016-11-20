@@ -1,5 +1,5 @@
-public class myClass{
-  public myClass(){};
+public class MyClass{
+  public MyClass(){};
   
   public void muestraMensaje(String msg){
     System.out.println(msg);
